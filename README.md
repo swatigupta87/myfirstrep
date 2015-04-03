@@ -1,2 +1,2 @@
 # myfirstrep
-My first attempt in got
+My first attempt in git
